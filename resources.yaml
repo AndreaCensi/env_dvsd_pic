@@ -1,0 +1,40 @@
+- dir: src/contracts
+  url: git@github.com:AndreaCensi/contracts.git
+  branch: env_dvsd_pic
+
+- dir: src/compmake
+  url: git@github.com:AndreaCensi/compmake.git
+  branch: env_dvsd_pic
+
+- dir: src/procgraph
+  url: git@github.com:AndreaCensi/procgraph.git
+  branch: env_dvsd_pic
+
+- dir: src/conf_tools
+  url: git@github.com:AndreaCensi/conf_tools.git
+  branch: master
+
+
+- dir: src/reprep
+  url: git@github.com:AndreaCensi/reprep.git
+  branch: env_dvsd_pic
+
+- dir: src/quickapp
+  url: git@github.com:AndreaCensi/quickapp.git
+  branch: env_dvsd_pic
+
+- dir: src/decent_logs
+  url: git@github.com:AndreaCensi/decent_logs.git
+  branch: env_dvsd_pic
+
+- dir: docs/dvsd1
+  url: git@github.com:AndreaCensi/dvsd1.git
+  branch: env_dvsd_pic
+
+- dir: docs/writingtools
+  url: git@github.com:AndreaCensi/writingtools.git
+  branch: env_dvsd
+
+- dir: src/dvsd_pic
+  url: git@github.com:AndreaCensi/dvsd_pic.git
+  branch: env_dvsd_pic
