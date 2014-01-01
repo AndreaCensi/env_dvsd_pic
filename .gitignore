@@ -1,1 +1,4 @@
 deploy
+environment.sh
+workspaces
+workspaces.old
