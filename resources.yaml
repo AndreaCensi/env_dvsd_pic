@@ -12,7 +12,7 @@
 
 - dir: src/conf_tools
   url: git@github.com:AndreaCensi/conf_tools.git
-  branch: master
+  branch: env_dvsd_pic
 
 - dir: src/reprep
   url: git@github.com:AndreaCensi/reprep.git
