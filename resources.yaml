@@ -32,7 +32,7 @@
 
 - dir: docs/writingtools
   url: git@github.com:AndreaCensi/writingtools.git
-  branch: env_dvsd
+  branch: env_dvsd_pic
 
 - dir: src/dvsd_pic
   url: git@github.com:AndreaCensi/dvsd_pic.git
